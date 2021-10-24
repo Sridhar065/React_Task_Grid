@@ -1,0 +1,178 @@
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+.lbl12{
+  margin-left: 1000px;
+}
+
+
+
+.App {      
+    text-align: center;      
+  }      
+  .navheader{      
+    margin-top: 10px;      
+    color :black !important;      
+    background-color: #b3beca!important      
+  }    
+  .PageHeading      
+  {      
+    margin-top: 10px;      
+    margin-bottom: 10px;      
+    color :black !important;      
+  } 
+
+  .lbl123{
+    margin-left: 0px;
+  }
+  .dataip{
+    margin-left: 183px;
+  }
+
+
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+
+
+  .namess{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    padding: 2em;
+  }
+
+  .btn12{
+    background-color: rgb(0, 174, 255);
+    padding: 1em;
+    margin-left: 300px;
+  }
+  
+  .btn13{
+    background-color: rgb(56, 221, 194);
+    padding: 1em;
+    margin-left: 100px;
+  }
+
+  .igs{
+    width: 100%;
+    height: 700px;
+  }
+
+
+  .hed-row{
+    font-size: 1.22rem;
+    color: #9a27e7;
+   
+  }
+  .hed-row12{
+    background-color: rgb(51, 196, 233);
+  }
+  .hed-row1{
+    padding-right: 2em;
+  }
+  .hed-row2{
+    padding-right: 4em;
+  }
+  .hed-row3{
+    padding-right: 6em;
+  }
+  .hed-row4{
+    padding-right: 8em;
+  }
+  .hed-row5{
+    padding-right: 10em;
+  }
+  
+
+  .btn23{
+    color: blueviolet;
+  }
+
+  .dataip12{
+    margin-left: 50px;
+  }
+
+.welcm{
+  text-align: center;
+  color: #9a27e7;
+  font-size: 1.5rem;
+  letter-spacing: 1rem;
+  font-weight: 700;
+}
+
+.main12{
+  text-align: left;
+  background-color:  paleturquoise;
+  padding-left: 10em;
+}
+.cl1{
+  text-align: left;
+  padding-left: 5em;
+  color: #9a27e7;
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+  font-weight: 800;
+}
+
+.mb{
+  margin-left: 100px;
+}
+
+.mb1{
+  margin-left: 98px;
+}
+.bths{
+  background-color: #1a6fd1;
+ margin-left: 130px;
+}
+
+
+
+
+
+
